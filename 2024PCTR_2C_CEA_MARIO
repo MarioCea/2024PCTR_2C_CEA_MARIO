@@ -1,0 +1,7 @@
+echo "# 2024PCTR_2C_CEA_MARIO" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MarioCea/2024PCTR_2C_CEA_MARIO.git
+git push -u origin main
